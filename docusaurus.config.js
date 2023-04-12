@@ -60,9 +60,9 @@ const config = {
         title: '',
         logo: {
           alt: 'Lineage Protocol Logo',
-          src: 'img/logo.svg',
+          src: 'img/logo-dark.svg',
+          srcDark: 'img/logo.svg',
         },
-        style: 'dark',
         items: [
           {
             type: 'docSidebar',
@@ -75,6 +75,18 @@ const config = {
             sidebarId: 'sdkSidebar',
             position: 'left',
             label: 'SDK',
+          },
+          {
+            type: 'docSidebar',
+            sidebarId: 'nodeSidebar',
+            position: 'left',
+            label: 'Node',
+          },
+          {
+            type: 'docSidebar',
+            sidebarId: 'contractSidebar',
+            position: 'left',
+            label: 'Meta Contract',
           },
           {
             href: 'https://github.com/lineage-protocol',

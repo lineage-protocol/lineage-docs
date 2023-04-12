@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Introduction
+# What is Lineage Protocol?
 
 ![Lineage protocol top-level overview](./img/overview.png)
 

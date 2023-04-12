@@ -1,4 +1,8 @@
-# Lineage Key
+---
+sidebar_position: 3
+---
+
+# NFT Key
 
 ### Datakey
 
